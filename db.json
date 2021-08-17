@@ -1,30 +1,30 @@
 {
   "slideshow": [
     {
-      "headingOne": "",
-      "headingTwo": "",
-      "headingThree": "",
-      "buttonText": "",
-      "buttonLink": "",
-      "mainImagePath": "",
-      "bottomBannerImagePath": "",
-      "bottomBannerTitle": "",
-      "bottomBannerContent": "",
-      "bottomBannerButtonText": "",
-      "bottomBannerButtonLink": ""
+      "headingOne": "IT Consulting,",
+      "headingTwo": "Services &",
+      "headingThree": "Solutions",
+      "buttonText": "Get Started with INA Today",
+      "buttonLink": "about-us.php",
+      "mainImagePath": "images/artificial-intelligence-banner.png",
+      "bottomBannerImagePath": "images/technology-banner.jpg,
+      "bottomBannerTitle": "Featured Service",
+      "bottomBannerContent": "Cloud Application Services",
+      "bottomBannerButtonText": "Read More",
+      "bottomBannerButtonLink": "cloud-and-managed-services.php"
     },
-    {
-      "headingOne": "",
-      "headingTwo": "",
-      "headingThree": "",
-      "buttonText": "",
-      "buttonLink": "",
-      "mainImagePath": "",
-      "bottomBannerImagePath": "",
-      "bottomBannerTitle": "",
-      "bottomBannerContent": "",
-      "bottomBannerButtonText": "",
-      "bottomBannerButtonLink": ""
+   {
+      "headingOne": "IT Consulting,",
+      "headingTwo": "Services &",
+      "headingThree": "Solutions",
+      "buttonText": "Get Started with INA Today",
+      "buttonLink": "about-us.php",
+      "mainImagePath": "images/artificial-intelligence-banner.png",
+      "bottomBannerImagePath": "images/technology-banner.jpg,
+      "bottomBannerTitle": "Featured Service",
+      "bottomBannerContent": "Cloud Application Services",
+      "bottomBannerButtonText": "Read More",
+      "bottomBannerButtonLink": "cloud-and-managed-services.php"
     }
   ]
 }
